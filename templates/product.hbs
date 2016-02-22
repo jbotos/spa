@@ -1,0 +1,11 @@
+<div class="product-block" data-id="{{id}}">
+    <h3 class="product-header">{{name}}</h3>
+    <p class="product-description">{{description}}</p>
+    {{#if features}}
+    <ul class="product-features">
+        {{#each features}}
+            <li>{{.}}</li>
+        {{/each}}
+    </ul>
+    {{/if}}
+</div>

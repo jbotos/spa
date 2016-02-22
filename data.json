@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "description": "This is product 1",
+        "features": [
+            "This is first feature",
+            "This is second feature",
+            "This is third feature"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "description": "This is product 2",
+        "features": [
+            "This is first feature",
+            "This is second feature",
+            "This is third feature"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "description": "This is product 3",
+        "features": [
+            "This is first feature",
+            "This is second feature",
+            "This is third feature"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Product 4",
+        "description": "This is product 4",
+        "features": [
+            "This is first feature",
+            "This is second feature",
+            "This is third feature"
+        ]
+    }
+]
